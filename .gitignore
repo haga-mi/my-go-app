@@ -1,0 +1,14 @@
+# Goのビルド済みバイナリ（実行ファイル）
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# 環境変数などの機密情報ファイル
+.env
+
+# OSが作成する一時ファイル
+.DS_Store
+Thumbs.db
